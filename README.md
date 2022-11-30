@@ -94,9 +94,11 @@ sns.heatmap(df.corr(),annot=True)
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l17.png)
 
 ## Data Visualization:
+```
 plt.figure(figsize=(20, 7))
 sns.lineplot(data=df, x='temp_min', y='temp_max')
 plt.show()
+```
 
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l18.png)
 sns.pointplot(x=df['temp_max'],y=df['temp_min'])
