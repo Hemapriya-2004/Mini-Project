@@ -1,6 +1,6 @@
-# Covid---Analysis
+# Weather-analysis.
 ## Aim:
-To implement data science techniques in covid dataset
+To implement data science techniques in weather prediction dataset
 ## Algorithm:
 ```
 1.Import necessary packages.
