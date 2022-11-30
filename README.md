@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 df=pd.read_csv("weather.csv")
 df
-![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l1.png)
+![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l1.png?raw=true)
 df.head()
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l2.png)
 df.info()
