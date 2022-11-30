@@ -21,12 +21,15 @@ df
 ![Output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l1.png)
 
 df.head()
+
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l2.png)
 
 df.info()
+
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l3.png)
 
 df.tail()
+
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l4.png)
 
 df.describe()
