@@ -41,6 +41,7 @@ df.shape
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l6.png)
 
 df['weather'].value_counts()
+
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l7.png)
 
 ## label encoder:
