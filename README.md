@@ -45,17 +45,19 @@ df['weather'].value_counts()
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l7.png)
 
 ## label encoder:
+```
 from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
 df['wind'] = le.fit_transform(df['weather'])
 df.head(10)
-
+```
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l8.png)
 ## data cleaning:
+```
 df.isnull().sum()
 missing_percentage = (df.isnull().sum())/(df.shape[0])*100
 missing_percentage
-
+```
 
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l9.png)
 
