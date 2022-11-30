@@ -112,3 +112,5 @@ sns.countplot(y="precipitation",data=df)
 
 ![output](https://github.com/Hemapriya-2004/Mini-Project/blob/main/l21.png)
 
+##  Result
+Thus above program is required for covid analysis and analysed successfully
